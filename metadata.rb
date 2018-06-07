@@ -1,8 +1,8 @@
-name 'ubuntu'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+name 'lamp'
+maintainer 'satishkorlapati'
+maintainer_email 'satishkorlapati357@gmail.com'
 license 'All Rights Reserved'
-description 'Installs/Configures ubuntu'
+description 'Installs/Configures ubuntu, cnetos'
 long_description 'Installs/Configures ubuntu'
 version '0.1.0'
 chef_version '>= 12.14' if respond_to?(:chef_version)
